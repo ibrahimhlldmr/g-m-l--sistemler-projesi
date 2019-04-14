@@ -1,1 +1,1 @@
-# g-m-l--sistemler-projesi
+# gomulu-sistemler-projesi
